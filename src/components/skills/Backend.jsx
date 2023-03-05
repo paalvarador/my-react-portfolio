@@ -11,6 +11,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-python' ></i>
                         <h3 className="skills_name">Python</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -20,6 +21,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-django' ></i>
                         <h3 className="skills_name">Django</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -29,6 +31,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-php' ></i>
                         <h3 className="skills_name">PHP</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -40,6 +43,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-java' ></i>
                         <h3 className="skills_name">Java</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -49,6 +53,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-c-plus-plus'></i>
                         <h3 className="skills_name">C#</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -58,6 +63,7 @@ const Backend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
+                        <i class='bx bxl-postgresql' ></i>
                         <h3 className="skills_name">MySQL</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
