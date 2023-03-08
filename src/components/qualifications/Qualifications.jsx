@@ -110,10 +110,10 @@ const Qualifications = () => {
                     }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Product Designer</h3>
-                            <span className="qualification__subtitle">Universidad Técnica - Institute</span>
+                            <h3 className="qualification__title">Computer maintenance</h3>
+                            <span className="qualification__subtitle">Tech Support Unit at Private Technical University of Loja (UTPL)</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2004
                             </div>
                         </div>
 
@@ -130,10 +130,68 @@ const Qualifications = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">UX Designer</h3>
-                            <span className="qualification__subtitle">Spain - Institute</span>
+                            <h3 className="qualification__title">Web Developer</h3>
+                            <span className="qualification__subtitle">Virtualization Unity of Open and Distance Modality at Private Technical University of Loja (UTPL)</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2005
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Java Developer</h3>
+                            <span className="qualification__subtitle">Pupilabox</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2007
+                            </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">PHP Developer</h3>
+                            <span className="qualification__subtitle">WutoLoja</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2010
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Investigation passant</h3>
+                            <span className="qualification__subtitle">Advanced Information Technoligies at Private Technical University of Loja (UTPL)</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2012 - 2013
+                            </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Learning Management Systems Administrator & Teacher</h3>
+                            <span className="qualification__subtitle">Private Technical University of Loja (UTPL)</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2013 - 2022
                             </div>
                         </div>
                     </div>

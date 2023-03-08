@@ -53,7 +53,7 @@ const Frontend = () => {
                     <i class='bx bxs-badge-check'></i>
 
                     <div>
-                        <i class='bx bxl-react' ></i>
+                        <i class='bx bxl-bootstrap' ></i>
                         <h3 className="skills_name">Bootstrap</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
