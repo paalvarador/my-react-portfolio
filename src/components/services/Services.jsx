@@ -29,27 +29,27 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
                         <h3 className="services__modal-title">Web <br /> Development</h3>
-                        <p className="services__modal-description">Service with +5 years of experience. Providing quality work to clients and companies</p>
+                        <p className="services__modal-description">I have +5 years of experience in web development using basic technologies like HTML, CSS, JavaScript and advanced technnologies like PHP, Python, REACTjs, NODEjs. I can help on following services:</p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I develop the user interface.</p>
+                                <p className="services__modal-info">Develop the user interface.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Web page development.</p>
+                                <p className="services__modal-info">Develop Front-end components.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I create UX element interactions.</p>
+                                <p className="services__modal-info">Develop Back-end components.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I position your company brand.</p>
+                                <p className="services__modal-info">Website maintenance and support.</p>
                             </li>
                         </ul>
                     </div>
